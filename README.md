@@ -39,7 +39,7 @@ Ubuntu Greece Facebook Group
 * Έκδοση Αναθεώρησης: v3.1.0 
 
   [1]: https://www.facebook.com/groups/ubuntugr/
-  [2]: http://ubuntu-gr.org/content/%CF%84%CE%B9-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%84%CE%BF-ubuntu
+  [2]: http://www.ubuntu-gr.org/whatisubuntu/
   [3]: https://ubuntu-gr.org/
   [5]: https://forum.ubuntu-gr.org/viewtopic.php?f=4&t=28956#p306994
   [6]: https://forum.ubuntu-gr.org/
